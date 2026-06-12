@@ -1,5 +1,3 @@
-# IMORTAL-1-Sistema-de-Bordo-para-Monitoramento-de-Sensores
-
 # 🚀 IMORTAL-1 - Sistema de Bordo para Monitoramento de Sensores
 
 ## 📋 Sobre o Projeto
